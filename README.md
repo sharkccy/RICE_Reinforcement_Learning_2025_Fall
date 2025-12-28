@@ -3,7 +3,7 @@
 Name: Chung-Yu (Vincent) Chang (張仲瑜)
 
 ## Introduction:
-This repository contains the homework assignments for the RICE Reinforcement Learning course in 2025 Fall.
+This repository contains the projects for the RICE Reinforcement Learning course in 2025 Fall.
 
 Multiple classical reinforcement learning algorithms are implemented from scratch, including
 - Value Iteration
