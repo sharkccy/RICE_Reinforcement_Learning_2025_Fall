@@ -6,6 +6,7 @@ Name: Chung-Yu (Vincent) Chang (張仲瑜)
 This repository contains the projects for the RICE Reinforcement Learning course in 2025 Fall.
 
 Multiple classical reinforcement learning algorithms are involved, including
+- Multi-Armed Bandits
 - Value Iteration
 - Policy Iteration
 - Monte Carlo Methods
